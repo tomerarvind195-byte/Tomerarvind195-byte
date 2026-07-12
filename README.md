@@ -31,7 +31,7 @@ class ArvindKumar:
 
     name         = "Arvind Kumar"
     role         = "Aspiring Software Engineer | Full-Stack Developer"
-    education    = "B.Tech IT @ REC Bijnor (SGPA: 8.20/10) — 2024–2028"
+    education    = "B.Tech IT @ REC Bijnor (SGPA: 8.00/10) — 2024–2028"
     location     = "Moradabad, Uttar Pradesh, India 🇮🇳"
 
     internships  = [
@@ -46,8 +46,10 @@ class ArvindKumar:
         "TATA GenAI Powered Data Analytics  — Forage (Jun 2026)",
         "TATA Cybersecurity Analyst (IAM)   — Forage (Jun 2026)",
         "NASSCOM FutureSkills Prime — EDA   — MeitY  (Jun 2026)",
-        "Lenovo LEAP Web Dev — 60+ hrs, B   — Skill India (Jul 2026)",
+        "Lenovo LEAP Cyber Security— 60+ hrs, A   — Skill India (Jul 2026)",
+        "Lenovo LEAP Web.Dev — 60+ hrs, B   — Skill India (Jul 2026)",
     ]
+    
 
     tech_stack   = ["Python", "Django", "React", "Node.js", "MySQL", "JS", "ML"]
     status       = "🟢 Open to Work — Internships & Entry-Level Roles"
@@ -127,7 +129,7 @@ class ArvindKumar:
 
 | Company | Role | Period |
 |---------|------|--------|
-| <img src="https://img.shields.io/badge/FlyRank_AI-FF6B35?style=flat-square" /> | Front-End AI Engineering Intern | `Jul–Aug 2026` 🔜 |
+| <img src="https://img.shields.io/badge/FlyRank_AI-FF6B35?style=flat-square" /> | Front-End AI Engineering Intern | `Jul–🔄 Ongoing |
 | <img src="https://img.shields.io/badge/Lenovo_LEAP_(AICTE)-E2231A?style=flat-square" /> | AI-Driven Web App Dev Intern | `Jun–Jul 2026` ✅ |
 | <img src="https://img.shields.io/badge/IBM_PBEL_(MeitY)-054ADA?style=flat-square" /> | Artificial Intelligence Intern | `2026` 🔄 Ongoing |
 
