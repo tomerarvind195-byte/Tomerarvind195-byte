@@ -153,7 +153,9 @@ class ArvindKumar:
 
 | Organization | Certification | Hours |
 |-------------|--------------|-------|
+| ![Lenovo](https://img.shields.io/badge/Lenovo-E2231A?style=flat-square) ![SkillIndia](https://img.shields.io/badge/Skill_India-FF9933?style=flat-square) | Cyber  Security— Grade A | 60+ hrs |
 | ![Lenovo](https://img.shields.io/badge/Lenovo-E2231A?style=flat-square) ![SkillIndia](https://img.shields.io/badge/Skill_India-FF9933?style=flat-square) | Web Development — Grade B | 60+ hrs |
+
 | ![NASSCOM](https://img.shields.io/badge/NASSCOM_MeitY-003087?style=flat-square) | Exploratory Data Analysis — FutureSkills Prime | — |
 | ![Unstop](https://img.shields.io/badge/Unstop-6C63FF?style=flat-square) | Front Web Developer Quiz — Code Flow Community | — |
 
