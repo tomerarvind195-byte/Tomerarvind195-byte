@@ -180,7 +180,7 @@ class ArvindKumar:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tomerarvind195-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=tomerarvind195-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomerarvind195-byte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomerarvind195-byte&theme=tokyonight&hide_border=true" height="150" />
