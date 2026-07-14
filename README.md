@@ -18,7 +18,7 @@
 
 | 🏗️ Projects | 💼 Internships | 🏅 Certifications | 🎓 SGPA | 🏆 Hackathons |
 |:-----------:|:--------------:|:-----------------:|:-------:|:-------------:|
-| **10+** | **3 Active** | **6 Industry** | **8.20/10** | **2 National** |
+| **10+** | **3 Active** | **6 Industry** | **8.00/10** | **2 National** |
 
 </div>
 
