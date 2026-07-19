@@ -104,24 +104,19 @@ class ArvindKumar:
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-| # | Project | Tech Stack | Status |
-|---|---------|-----------|--------|
+| #  | Project | Tech Stack | Status |
+|----|---------|-----------|--------|
 | 🥇 | [**Quality Education with AI**](https://github.com/tomerarvind195-byte/Quality-education-with-AI) | React · Node.js · Express | [![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square&logo=vercel&logoColor=white)](https://qualityeducationwithai.vercel.app) [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/Quality-education-with-AI) |
-| 🥈 | [**SkillPath AI**](https://github.com/tomerarvind195-byte/SkillPath-AI) | React · Vite · TypeScript | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/SkillPath-AI) |
-| 🥉 | [**College Search Web App**](https://github.com/tomerarvind195-byte/College_list_search-WebApplication) | Django · MySQL · Bootstrap | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/College_list_search-WebApplication) |
-| 4 | [**House Price Prediction**](https://github.com/tomerarvind195-byte/House-price-prediction) | Python · Scikit-learn · ML | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/House-price-prediction) |
-| 5 | [**Study Materials Platform**](https://github.com/tomerarvind195-byte/study-platform) | Django · MySQL · JS | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/study-platform) |
-| 6 | [**Fast Food Ordering App**](https://github.com/tomerarvind195-byte/food-ordering-app) | Django · MySQL · JS | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/food-ordering-app) |
-| 7 | [**AI Assistant**](https://github.com/tomerarvind195-byte/ai-assistant) | Python · CLI | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/ai-assistant) |
-| 8 | [**Conversational Chatbot**](https://github.com/tomerarvind195-byte/conversational-chatbot) | Python · NLP | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/conversational-chatbot) |
-| 9 | [**2D Rocket Game**](https://github.com/tomerarvind195-byte/rocket-game) | Python · Pygame | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/rocket-game) |
-| 10 | [**Intelligent Add-on System**](https://github.com/tomerarvind195-byte/intelligent-addon-system) | Python · AI | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/intelligent-addon-system) |
-
-</div>
-
----
+| 🥈 | [**IBM — AI-Based Cyber Threat Detection Framework**](https://github.com/tomerarvind195-byte/IBM--AI-Based-Cyber-Threat-Detection-Framework) | Python · ML · HTML | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/IBM--AI-Based-Cyber-Threat-Detection-Framework) |
+| 🥉 | [**SkillPath AI**](https://github.com/tomerarvind195-byte/SkillPath-AI) | React · Vite · TypeScript | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/SkillPath-AI) |
+| 4 | [**College Search Web App**](https://github.com/tomerarvind195-byte/College_list_search-WebApplication) | Django · MySQL · Bootstrap | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/College_list_search-WebApplication) |
+| 5 | [**House Price Prediction**](https://github.com/tomerarvind195-byte/House-price-prediction) | Python · Scikit-learn · ML | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/House-price-prediction) |
+| 6 | [**Study Materials Platform**](https://github.com/tomerarvind195-byte/study-platform) | Django · MySQL · JS | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/study-platform) |
+| 7 | [**Fast Food Ordering App**](https://github.com/tomerarvind195-byte/food-ordering-app) | Django · MySQL · JS | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/food-ordering-app) |
+| 8 | [**AI Assistant**](https://github.com/tomerarvind195-byte/ai-assistant) | Python · CLI | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/ai-assistant) |
+| 9 | [**Conversational Chatbot**](https://github.com/tomerarvind195-byte/conversational-chatbot) | Python · NLP | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/conversational-chatbot) |
+| 10 | [**2D Rocket Game**](https://github.com/tomerarvind195-byte/rocket-game) | Python · Pygame | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/rocket-game) |
+| 11 | [**Intelligent Add-on System**](https://github.com/tomerarvind195-byte/intelligent-addon-system) | Python · AI | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tomerarvind195-byte/intelligent-addon-system) |
 
 ## 💼 Internship Experience
 
